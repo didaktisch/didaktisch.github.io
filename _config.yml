@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
+theme: minima
+plugins:
+  - jekyll-feed
 name: explainer
 markdown: kramdown

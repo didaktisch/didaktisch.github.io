@@ -1,0 +1,1 @@
+Imagine you have a secret you want to share, but you want to share it with only one person. Without much difficulty, you could develop a secret language between the two of you that would be indecipherable to someone else. At its core, this is the goal of any encrypted exchange--to pass information along 

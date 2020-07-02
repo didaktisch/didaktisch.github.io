@@ -1,5 +1,4 @@
-#theme: jekyll-theme-slate
-#theme: beautiful-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 name: explainer

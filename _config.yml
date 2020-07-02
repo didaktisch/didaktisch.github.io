@@ -1,7 +1,0 @@
-theme: slate
-#theme: beautiful-jekyll-theme
-plugins:
-  - jekyll-feed
-name: explainer
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title

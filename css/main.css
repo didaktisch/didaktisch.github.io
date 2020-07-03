@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 40px auto;
     width: 100%;
 }
 nav ul, footer ul {
@@ -43,5 +43,5 @@ ul.posts li {
 }
 
 div.container {
-    margin-top: 25px;
+    margin-top: 15px;
 }

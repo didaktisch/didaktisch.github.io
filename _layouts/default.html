@@ -33,10 +33,9 @@
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 						{% for post in site.posts limit:5 %}
-						<a href="{{ post.url }}">{{ post.title }}</a>
+						<a href="{{ post.url }}">{{ post.title }}</a><br>
 						{% endfor %}
 						<div class="dropdown-divider"></div>
-						<a class="dropdown-item" href="#">Something else here</a>
 					</div>
 				</li>
 				<li class="nav-item">
